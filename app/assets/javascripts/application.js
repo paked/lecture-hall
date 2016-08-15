@@ -20,6 +20,7 @@
 //
 //= require app.scrollspy
 //= require app.analytics
+//= require app.sentry
 //= require app
 //
 // ActionCable
